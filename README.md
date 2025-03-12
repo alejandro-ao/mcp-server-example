@@ -2,6 +2,8 @@
 
 This repository contains an implementation of a Model Context Protocol (MCP) server for educational purposes. This code demonstrates how to build a functional MCP server that can integrate with various LLM clients.
 
+To follow the complete tutorial, please refer to the[YouTube video tutorial](https://youtu.be/Ek8JHgZtmcI).
+
 ## What is MCP?
 
 MCP (Model Context Protocol) is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications - it provides a standardized way to connect AI models to different data sources and tools.
