@@ -18,6 +18,11 @@ docs_urls = {
 }
 
 async def search_web(query: str) -> dict | None:
+    api_key = os.getenv("SERPER_API_KEY")
+    if not api_key:
+        raise ValueError("SERPER_API_KEY is not set in the environment variables.")
+
+
     payload = json.dumps({"q": query, "num": 2})
 
     headers = {
