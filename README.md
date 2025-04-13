@@ -2,7 +2,7 @@
 
 This repository contains an implementation of a Model Context Protocol (MCP) server for educational purposes. This code demonstrates how to build a functional MCP server that can integrate with various LLM clients.
 
-To follow the complete tutorial, please refer to the[YouTube video tutorial](https://youtu.be/Ek8JHgZtmcI).
+To follow the complete tutorial, please refer to the [YouTube video tutorial](https://youtu.be/Ek8JHgZtmcI).
 
 ## What is MCP?
 
