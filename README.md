@@ -1,4 +1,5 @@
 # MCP Server Example
+[![smithery badge](https://smithery.ai/badge/@alejandro-ao/mcp-server-example)](https://smithery.ai/server/@alejandro-ao/mcp-server-example)
 
 This repository contains an implementation of a Model Context Protocol (MCP) server for educational purposes. This code demonstrates how to build a functional MCP server that can integrate with various LLM clients.
 
@@ -40,6 +41,14 @@ MCP servers can provide three main types of capabilities:
 - `uv` package manager
 
 ## Getting Started
+
+### Installing via Smithery
+
+To install MCP Server Example for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@alejandro-ao/mcp-server-example):
+
+```bash
+npx -y @smithery/cli install @alejandro-ao/mcp-server-example --client claude
+```
 
 ### Installing uv Package Manager
 
