@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alejandro-ao-mcp-server-example-badge.png)](https://mseep.ai/app/alejandro-ao-mcp-server-example)
+
 # MCP Server Example
 
 This repository contains an implementation of a Model Context Protocol (MCP) server for educational purposes. This code demonstrates how to build a functional MCP server that can integrate with various LLM clients.
